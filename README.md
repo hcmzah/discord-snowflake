@@ -9,6 +9,6 @@ Enter a Discord snowflake ID: 1053092877443551252
 Thu, 15 Dec 2022 23:35:07 GMT
 ```
 
-you can use your own custom epoch by editing the ```discordEpoch``` var
+you can use a custom epoch by editing the ```discordEpoch``` var
 
 [docs reference](https://discord.com/developers/docs/reference#snowflakes)
